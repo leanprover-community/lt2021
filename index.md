@@ -27,7 +27,7 @@ and we'd like to leave plenty of time for discussion.
 Would you/your team/your research group possibly be interested in presenting something?
 Please let the organizers know, with no commitment!
 
-## Organisation
+## Organization
 
 Main organization by:
 [Robert Y. Lewis](https://robertylewis.com) and

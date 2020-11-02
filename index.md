@@ -3,51 +3,32 @@ layout: default
 title: Home
 ---
 
-# Lean for the curious mathematician
+# Lean Together 2021
 
-A virtual workshop on computer-checked mathematics — [13–17 July 2020]
+A virtual workshop on the Lean proof assistant — [4—8 Jan 2021]
 
 ## Description
 
-[Lean](http://leanprover.github.io/) is a proof assistant.
-This means that you can use it to explain mathematics to a computer, and the
-computer will check everything makes sense.
-This workshop is intended for mathematicians who use Lean or wish to learn Lean.
-We will have introductory tutorials, presentations,
-and break-out sessions for specific areas of interest as directed by the attendees.
-Experienced users will be available to answer questions, supervise
-exercises sessions, and participate in pair programming.
+This is a follow-up workshop to
+[Lean Together 2019](https://lean-forward.github.io/lean-together/2019/) and
+[Formal Methods in Mathematics / Lean Together 2020](https://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/).
+More info soon!
 
-There is no initial knowledge needed; everyone is welcome.
-Intermediate users will be able to start pair programming immediately
-while beginners will first learn the basics, including installing the
-software and its supporting tools.
+## Contributed talks
 
-## Why Lean?
+We would love to see casual work in progress talks from any and everybody who has WIP to share.
+Anything formalization-related is in scope.
+A big point of these workshops is
+to get an idea of what other formalizers around the world are working on
+and to coordinate efforts.
+We're not only looking for polished conference talks,
+and we'd like to leave plenty of time for discussion.
 
-The Lean theorem prover is a young theorem prover
-developed mostly by Leonardo de Moura at Microsoft Research.
-Over the past two years it has attracted the attention of mathematicians.
-Notable highlights include the formalisation of the independence of the continuum hypothesis,
-the cap-set problem, the definition of manifolds (with boundaries/corners/etc),
-and the definition of schemes and perfectoid spaces.
-
-Beyond technical aspects, a large part of Lean's appeal to
-mathematicians comes from its very active and friendly 
-[community of users](http://leanprover-community.github.io/) which,
-compared to other proof assistants, has a very strong focus on
-mathematics instead of computer science and software engineering.
+Would you/your team/your research group possibly be interested in presenting something?
+Please let the organizers know, with no commitment!
 
 ## Organisation
 
-Although this event was originally intended to happen in Freiburg, the
-Covid pandemic turned it into a *virtual* meeting.
-See the [participants](participants.html) and [schedule](schedule.html)
-pages for details.
-
-Main organisation by: 
-[Johan Commelin](https://math.commelin.net) and
+Main organization by:
+[Robert Y. Lewis](https://robertylewis.com) and
 [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~pmassot/en/).
-
-Feel free to contact us on
-[Zulip](https://leanprover.zulipchat.com/#narrow/stream/238830-Lean-for.20the.20curious.20mathematician.202020).

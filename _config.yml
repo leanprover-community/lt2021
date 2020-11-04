@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'LT21'
-description:	       'Lean Together 2021'
+title:		           'Lean Together 2021'
+description:	       'A workshop about formalizations in Lean'
 author:              'the Lean prover community'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

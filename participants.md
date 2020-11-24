@@ -20,6 +20,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Chris Hughes
 * Yury Kudryashov
 * Jannis Limperg
+* Heather Macbeth
 * Leonardo de Moura
 * Logan Murphy
 * Stanislas Polu

@@ -5,7 +5,9 @@ title: Home
 
 # Lean Together 2021
 
-A virtual workshop to showcase work using the Lean proof assistant — [4—8 Jan 2021]
+A workshop to showcase work using the Lean proof assistant.
+
+Virtually via Zoom: 4—8 Jan 2021
 
 ## Description
 

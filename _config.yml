@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Lean Together 2021'
-description:	       'A workshop about formalizations in Lean'
+description:	       'A gathering of users of the Lean proof assistant'
 author:              'the Lean prover community'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

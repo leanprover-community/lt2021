@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-A workshop to showcase work using the Lean proof assistant.
+# A meeting for Lean users and other formalizers
 
 Virtually via Zoom: 4—8 Jan 2021
 

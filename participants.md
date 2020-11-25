@@ -31,5 +31,11 @@ This list is incomplete. Please contact the organizers if you would like to spea
 
 ## Participants
 
+* Alexander Best
+* Riccardo Brasca
+* Kevin Buzzard
+* Johan Commelin
+* Sébastien Gouëzel
 * Robert Y. Lewis
 * Patrick Massot
+* Wojciech Nawrocki

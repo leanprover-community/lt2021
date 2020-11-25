@@ -48,6 +48,10 @@ and we'd like to leave plenty of time for discussion.
 Would you/your team/your research group possibly be interested in presenting something?
 Please let the organizers know, with no commitment!
 
+## Registration
+
+To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
+
 ## Previous events
 
 * [Lean Together 2019](https://lean-forward.github.io/lean-together/2019/)

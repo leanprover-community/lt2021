@@ -27,6 +27,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Yasmine Sharoda
 * Damiano Testa
 * Sebastian Ullrich
+* Koundinya Vajjha
 
 ## Participants
 

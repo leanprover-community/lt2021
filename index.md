@@ -62,4 +62,4 @@ To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
 
 Main organization by:
 * [Robert Y. Lewis](https://robertylewis.com) ([email](mailto:r.y.lewis@vu.nl))
-* [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~pmassot/en/) ([email](patrick.massot@math.cnrs.fr))
+* [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~pmassot/en/) ([email](mailto:patrick.massot@math.cnrs.fr))

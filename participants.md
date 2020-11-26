@@ -35,7 +35,13 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Riccardo Brasca
 * Kevin Buzzard
 * Johan Commelin
+* Frédéric Dupuis
 * Sébastien Gouëzel
 * Robert Y. Lewis
 * Patrick Massot
 * Wojciech Nawrocki
+* Filippo A. E. Nuccio
+* Javier Prieto
+* Parth Shimpi
+* Gunjeet Singh
+* Fox Thomson

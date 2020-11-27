@@ -18,6 +18,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Floris van Doorn
 * Joe Hendrix
 * Chris Hughes
+* Marie Kerjean
 * Yury Kudryashov
 * Jannis Limperg
 * Heather Macbeth
@@ -26,22 +27,31 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Stanislas Polu
 * Yasmine Sharoda
 * Damiano Testa
+* Adam Topaz
 * Sebastian Ullrich
 * Koundinya Vajjha
 
 ## Participants
 
+* Aniruddh Agarwal
+* James Arthur
 * Alexander Best
 * Riccardo Brasca
 * Kevin Buzzard
 * Johan Commelin
+* Anatole Dedecker
 * Frédéric Dupuis
 * Sébastien Gouëzel
+* Shing Tak Lam
 * Robert Y. Lewis
+* Jean Lo
 * Patrick Massot
+* Owen Milner
+* Ashvni Narayanan
 * Wojciech Nawrocki
 * Filippo A. E. Nuccio
 * Javier Prieto
+* Wrenna Robson
 * Parth Shimpi
 * Gunjeet Singh
 * Fox Thomson

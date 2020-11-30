@@ -42,6 +42,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Anatole Dedecker
 * Frédéric Dupuis
 * Sébastien Gouëzel
+* Huỳnh Trần Khanh
 * Shing Tak Lam
 * Robert Y. Lewis
 * Jean Lo
@@ -51,7 +52,9 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Wojciech Nawrocki
 * Filippo A. E. Nuccio
 * Javier Prieto
+* Alexandre Rademaker
 * Wrenna Robson
 * Parth Shimpi
 * Gunjeet Singh
+* Ezra Sitorus
 * Fox Thomson

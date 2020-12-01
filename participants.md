@@ -35,6 +35,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 
 * Aniruddh Agarwal
 * James Arthur
+* Jeremy Avigad
 * Alexander Best
 * Riccardo Brasca
 * Kevin Buzzard
@@ -46,6 +47,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Shing Tak Lam
 * Robert Y. Lewis
 * Jean Lo
+* Gihan Marasingha
 * Patrick Massot
 * Owen Milner
 * Ashvni Narayanan
@@ -54,7 +56,9 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Javier Prieto
 * Alexandre Rademaker
 * Wrenna Robson
+* Daniel Selsam
 * Parth Shimpi
 * Gunjeet Singh
 * Ezra Sitorus
+* Kevin Sullivan
 * Fox Thomson

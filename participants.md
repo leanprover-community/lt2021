@@ -25,6 +25,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Leonardo de Moura
 * Logan Murphy
 * Stanislas Polu
+* Jason Rute
 * Yasmine Sharoda
 * Damiano Testa
 * Adam Topaz
@@ -42,8 +43,12 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Johan Commelin
 * Anatole Dedecker
 * Frédéric Dupuis
+* Sara Fish
 * Sébastien Gouëzel
+* Alena Gusakov
+* Jesse Michael Han
 * Huỳnh Trần Khanh
+* Alex Kontorovich
 * Shing Tak Lam
 * Robert Y. Lewis
 * Jean Lo
@@ -55,8 +60,11 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Filippo A. E. Nuccio
 * Javier Prieto
 * Alexandre Rademaker
+* Iván Rendo Barreiro
 * Wrenna Robson
+* Jared Roesch
 * Daniel Selsam
+* Ramy Shahin
 * Parth Shimpi
 * Gunjeet Singh
 * Ezra Sitorus

@@ -12,6 +12,8 @@ The workshop is unlikely to last for five full days.
 
 ## Speakers
 
+To be completed!
+
 * Ed Ayers: *Widgets*
 * Thomas Browning: *Galois theory*
 * Floris van Doorn: *Measure theory*
@@ -24,8 +26,9 @@ The workshop is unlikely to last for five full days.
 * Heather Macbeth
 * Leonardo de Moura: *Lean 4 overview; Metaprogramming in Lean 4*
 * Logan Murphy: *Provably Deductive Assurance Cases*
+* Paula Neeley: *Results in modal and dynamic epistemic logic*
 * Stanislas Polu
-* Jason Rute
+* Jason Rute: *Machine learning datasets for Lean*
 * Yasmine Sharoda
 * Damiano Testa
 * Adam Topaz

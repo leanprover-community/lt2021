@@ -12,7 +12,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 
 ## Speakers
 
-This list is incomplete. Please contact the organizers if you would like to speak!
+To be completed!
 
 * Ed Ayers
 * Thomas Browning
@@ -26,6 +26,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Heather Macbeth
 * Leonardo de Moura
 * Logan Murphy
+* Paula Neeley
 * Stanislas Polu
 * Jason Rute
 * Yasmine Sharoda

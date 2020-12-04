@@ -15,12 +15,14 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 This list is incomplete. Please contact the organizers if you would like to speak!
 
 * Ed Ayers
+* Thomas Browning
 * Floris van Doorn
 * Joe Hendrix
 * Chris Hughes
 * Marie Kerjean
 * Yury Kudryashov
 * Jannis Limperg
+* Patrick Lutz
 * Heather Macbeth
 * Leonardo de Moura
 * Logan Murphy
@@ -42,6 +44,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Kevin Buzzard
 * Johan Commelin
 * Anatole Dedecker
+* Stefania Dumbrava
 * Frédéric Dupuis
 * Sara Fish
 * Sébastien Gouëzel
@@ -54,6 +57,7 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Jean Lo
 * Gihan Marasingha
 * Patrick Massot
+* Kyle Miller
 * Owen Milner
 * Ashvni Narayanan
 * Wojciech Nawrocki
@@ -68,5 +72,6 @@ This list is incomplete. Please contact the organizers if you would like to spea
 * Parth Shimpi
 * Gunjeet Singh
 * Ezra Sitorus
+* Sorin Suciu
 * Kevin Sullivan
 * Fox Thomson

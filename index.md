@@ -14,7 +14,7 @@ Lean Together is an annual meeting for users, developers, and fans of the
 and its library [mathlib](https://leanprover-community.github.io).
 At this meeting we discuss ongoing projects in formalized mathematics and software verification,
 as well as infrastructure and outreach for Lean and its community.
-We also invite speakers and participants from other proof assistant communities,
+We welcome speakers and participants from other proof assistant communities,
 as well as people who are inexperienced with proof assistants but want to learn more.
 
 This year, due to world events, the meeting will be virtual.

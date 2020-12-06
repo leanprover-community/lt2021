@@ -5,7 +5,7 @@ title: Home
 
 # A meeting for Lean users and other formalizers
 
-Virtually via Zoom: **4—8 Jan 2021**
+Virtually via Zoom: **4—7 Jan 2021**
 
 ## Description
 

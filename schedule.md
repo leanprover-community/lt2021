@@ -2,17 +2,23 @@
 layout: default
 title: "Schedule"
 author: "Community"
+dates: true
 ---
 
-The workshop will take place virtually via Zoom, the week of Jan 4. More details soon.
+The workshop will take place virtually via Zoom, the week of Jan 4. The
+schedule is still provisional, please come back here for updates.
 
-We will try to schedule things acceptably for various timezones,
-possibly starting at different times on different days.
-The workshop is unlikely to last for five full days.
+We tried to schedule things acceptably for various timezones,
+starting at different times on different days. We will start:
+* On January 4th, at <time datetime="2021-01-04T15:00+01:00">3pm</time> <span>(3pm CET)</span>
+* On January 5th, at <time datetime="2021-01-05T12:00+01:00">noon</time> <span>(noon CET)</span>
+* On January 6th, at <time datetime="2021-01-06T16:00+01:00">4pm</time> <span>(4pm CET)</span>
+* On January 7th, at <time datetime="2021-01-07T15:00+01:00">3pm</time> <span>(3pm CET)</span>
 
 ## Speakers
 
-To be completed!
+The title below are to be confirmed. We list them now to give a rough idea of
+the range of topics that will be covered.
 
 * Ed Ayers: *Widgets*
 * Thomas Browning: *Galois theory*

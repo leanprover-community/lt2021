@@ -17,7 +17,7 @@ starting at different times on different days. We will start:
 
 ## Speakers
 
-The title below are to be confirmed. We list them now to give a rough idea of
+The titles below are to be confirmed. We list them now to give a rough idea of
 the range of topics that will be covered.
 
 * Ed Ayers: *Widgets*
@@ -25,7 +25,7 @@ the range of topics that will be covered.
 * Floris van Doorn: *Measure theory*
 * Alena Gusakov
 * Joe Hendrix: *Verification of a binary compiler in Lean 4*
-* Chris Hughes
+* Chris Hughes: *Word problem for one-relator groups*
 * Marie Kerjean
 * Yury Kudryashov
 * Kenny Lau
@@ -35,9 +35,10 @@ the range of topics that will be covered.
 * Leonardo de Moura: *Lean 4 overview; Metaprogramming in Lean 4*
 * Logan Murphy: *Provably Deductive Assurance Cases*
 * Paula Neeley: *Results in modal and dynamic epistemic logic*
-* Stanislas Polu
+* Peter Nelson
+* Stanislas Polu: *OpenAI Metamath GPT-f*
 * Jason Rute: *Machine learning datasets for Lean*
-* Yasmine Sharoda
+* Yasmine Sharoda: *Theory presentations*
 * Damiano Testa
 * Adam Topaz: *Baby steps toward formalizing results in anabelian geometry*
 * Sebastian Ullrich: *Lean 4 overview; Metaprogramming in Lean 4*

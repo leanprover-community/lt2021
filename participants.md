@@ -10,33 +10,6 @@ image: mountains.jpg
 To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
 Registration is not required, but will let us keep you updated with the Zoom link, etc.
 
-## Speakers
-
-To be completed!
-
-* Ed Ayers
-* Thomas Browning
-* Floris van Doorn
-* Alena Gusakov
-* Joe Hendrix
-* Chris Hughes
-* Marie Kerjean
-* Yury Kudryashov
-* Kenny Lau
-* Jannis Limperg
-* Patrick Lutz
-* Heather Macbeth
-* Leonardo de Moura
-* Logan Murphy
-* Paula Neeley
-* Stanislas Polu
-* Jason Rute
-* Yasmine Sharoda
-* Damiano Testa
-* Adam Topaz
-* Sebastian Ullrich
-* Koundinya Vajjha
-
 ## Participants
 
 * Aniruddh Agarwal

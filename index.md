@@ -35,20 +35,6 @@ More detailed scheduling information will appear in the following weeks.
 With the speakers' permission, talks will be recorded and posted to the
 [leanprover community YouTube channel](https://www.youtube.com/channel/UCWe5B7Ikr0AI9727doEUxPg).
 
-## Contributed talks
-
-We would love to see casual work in progress talks from any and everybody who has WIP to share.
-Anything formalization-related is in scope.
-In particular, we do not require talks to involve Lean.
-A big point of these workshops is
-to get an idea of what other formalizers around the world are working on
-and to coordinate efforts.
-We're not only looking for polished conference talks,
-and we'd like to leave plenty of time for discussion.
-
-Would you/your team/your research group possibly be interested in presenting something?
-Please let the organizers know, with no commitment!
-
 ## Registration
 
 To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).

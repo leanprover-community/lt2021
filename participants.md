@@ -52,6 +52,7 @@ To be completed!
 * Frédéric Dupuis
 * Sara Fish
 * Sébastien Gouëzel
+* Darij Grinberg
 * Jesse Michael Han
 * Huỳnh Trần Khanh
 * Alex Kontorovich

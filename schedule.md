@@ -6,7 +6,7 @@ dates: true
 ---
 
 The workshop will take place virtually via Zoom, the week of Jan 4. The
-schedule is still provisional, please come back here for updates.
+schedule is still provisional. Please come back here for updates.
 
 We tried to schedule things acceptably for various timezones,
 starting at different times on different days. We will start:
@@ -14,6 +14,8 @@ starting at different times on different days. We will start:
 * On January 5th, at <time datetime="2021-01-05T12:00+01:00">noon</time> <span>(noon CET)</span>
 * On January 6th, at <time datetime="2021-01-06T16:00+01:00">4pm</time> <span>(4pm CET)</span>
 * On January 7th, at <time datetime="2021-01-07T15:00+01:00">3pm</time> <span>(3pm CET)</span>
+
+Sessions will last 4-5 hours including breaks.
 
 ## Speakers
 

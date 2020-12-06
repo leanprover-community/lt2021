@@ -13,7 +13,7 @@ Lean Together is an annual meeting for users, developers, and fans of the
 [Lean proof assistant](https://leanprover.github.io)
 and its library [mathlib](https://leanprover-community.github.io).
 At this meeting we discuss ongoing projects in formalized mathematics and software verification,
-as well as infrastructure and outreach for Lean and its community. 
+as well as infrastructure and outreach for Lean and its community.
 We also invite speakers and participants from other proof assistant communities,
 as well as people who are inexperienced with proof assistants but want to learn more.
 
@@ -29,6 +29,8 @@ We will vary the starting times of the sessions to accommodate people in differe
 We will have a mix of shorter talks about work in progress,
 longer talks about more mature projects,
 and some open discussion/planning sessions.
+We will also have social time on [wonder.me](https://www.wonder.me/), [gather.town](https://gather.town/),
+or similar, before and after the sessions.
 
 More detailed scheduling information will appear in the following weeks.
 
@@ -38,6 +40,7 @@ With the speakers' permission, talks will be recorded and posted to the
 ## Registration
 
 To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
+We will email you the Zoom link before the event.
 
 ## Previous events
 

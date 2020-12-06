@@ -5,7 +5,7 @@ title: Home
 
 # A meeting for Lean users and other formalizers
 
-Virtually via Zoom: 4—8 Jan 2021
+Virtually via Zoom: **4—8 Jan 2021**
 
 ## Description
 
@@ -13,12 +13,13 @@ Lean Together is an annual meeting for users, developers, and fans of the
 [Lean proof assistant](https://leanprover.github.io)
 and its library [mathlib](https://leanprover-community.github.io).
 At this meeting we discuss ongoing projects in formalized mathematics and software verification,
-as well as infrastructure and outreach for Lean and its community.
+as well as infrastructure and outreach for Lean and its community. 
+We also invite speakers and participants from other proof assistant communities,
+as well as people who are inexperienced with proof assistants but want to learn more.
 
 This year, due to world events, the meeting will be virtual.
-The event is open to everyone without cost: feel free to attend as many sessions as you'd like.
-We welcome and encourage speakers and participants from other proof assistant communities,
-as well as people who are inexperienced with proof assistants but want to learn more.
+The event is open to everyone without cost: feel free to attend as many
+sessions as you'd like.
 
 ## Format
 

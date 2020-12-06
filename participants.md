@@ -17,10 +17,12 @@ To be completed!
 * Ed Ayers
 * Thomas Browning
 * Floris van Doorn
+* Alena Gusakov
 * Joe Hendrix
 * Chris Hughes
 * Marie Kerjean
 * Yury Kudryashov
+* Kenny Lau
 * Jannis Limperg
 * Patrick Lutz
 * Heather Macbeth
@@ -44,12 +46,12 @@ To be completed!
 * Riccardo Brasca
 * Kevin Buzzard
 * Johan Commelin
+* Tom Cuchta
 * Anatole Dedecker
 * Stefania Dumbrava
 * Frédéric Dupuis
 * Sara Fish
 * Sébastien Gouëzel
-* Alena Gusakov
 * Jesse Michael Han
 * Huỳnh Trần Khanh
 * Alex Kontorovich
@@ -75,4 +77,5 @@ To be completed!
 * Ezra Sitorus
 * Sorin Suciu
 * Kevin Sullivan
+* Yuhuai Wu
 * Fox Thomson

@@ -17,10 +17,12 @@ To be completed!
 * Ed Ayers: *Widgets*
 * Thomas Browning: *Galois theory*
 * Floris van Doorn: *Measure theory*
+* Alena Gusakov
 * Joe Hendrix: *Verification of a binary compiler in Lean 4*
 * Chris Hughes
 * Marie Kerjean
 * Yury Kudryashov
+* Kenny Lau
 * Jannis Limperg: *Towards general-purpose automation for Lean*
 * Patrick Lutz: *Galois theory*
 * Heather Macbeth
@@ -31,6 +33,6 @@ To be completed!
 * Jason Rute: *Machine learning datasets for Lean*
 * Yasmine Sharoda
 * Damiano Testa
-* Adam Topaz
+* Adam Topaz: *Baby steps toward formalizing results in anabelian geometry*
 * Sebastian Ullrich: *Lean 4 overview; Metaprogramming in Lean 4*
 * Koundinya Vajjha: *CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq*

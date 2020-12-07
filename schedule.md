@@ -32,6 +32,7 @@ the range of topics that will be covered.
 * Yury Kudryashov
 * Kenny Lau
 * Jannis Limperg: *Towards general-purpose automation for Lean*
+* Amelia Livingston
 * Patrick Lutz: *Galois theory*
 * Heather Macbeth
 * Leonardo de Moura: *Lean 4 overview; Metaprogramming in Lean 4*

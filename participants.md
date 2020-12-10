@@ -16,6 +16,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * James Arthur
 * Jeremy Avigad
 * Kimaya Bedarkar
+* Alexander Bentkamp
 * Alexander Best
 * Helmut Brandl
 * Riccardo Brasca
@@ -27,12 +28,14 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Stefania Dumbrava
 * Frédéric Dupuis
 * Sara Fish
+* Alcides Fonseca
 * Colin Gordon
 * Sébastien Gouëzel
 * Darij Grinberg
 * Jesse Michael Han
 * Maximilian P.L. Haslbeck
 * Huỳnh Trần Khanh
+* Peter Koepke
 * Alexander Kogtenkov
 * Alex Kontorovich
 * Shing Tak Lam
@@ -40,6 +43,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Robert Y. Lewis
 * Wenda Li
 * Jean Lo
+* Lia Malato
 * Gihan Marasingha
 * Patrick Massot
 * Orestis Melkonian
@@ -60,13 +64,18 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * William Simmons
 * Gunjeet Singh
 * Ezra Sitorus
+* Andrew Souther
 * Leo Stefanesco
+* Lukas Stevens
 * Zygimantas Straznickas
 * Sorin Suciu
 * Kevin Sullivan
 * Fox Thomson
+* Huub Vromen
 * Richard Waldinger
 * Shengyi Wang
 * Makarius Wenzel
+* William Whistler
+* Lucas Wilcox
 * Yuhuai Wu
 * Shekh Mohammed Zahid

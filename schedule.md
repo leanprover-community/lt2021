@@ -29,7 +29,7 @@ the range of topics that will be covered.
 * Joe Hendrix: *Verification of a binary compiler in Lean 4*
 * Chris Hughes: *Word problem for one-relator groups*
 * Marie Kerjean
-* Yury Kudryashov
+* Yury Kudryashov: *Dynamics on the circle*
 * Kenny Lau
 * Jannis Limperg: *Towards general-purpose automation for Lean*
 * Amelia Livingston
@@ -41,7 +41,7 @@ the range of topics that will be covered.
 * Peter Nelson
 * Stanislas Polu: *OpenAI Metamath GPT-f*
 * Jason Rute: *Machine learning datasets for Lean*
-* Yasmine Sharoda: *Theory presentations*
+* Yasmine Sharoda: *Generative Tools for Library Building*
 * Damiano Testa
 * Adam Topaz: *Baby steps toward formalizing results in anabelian geometry*
 * Sebastian Ullrich: *Lean 4 overview; Metaprogramming in Lean 4*

@@ -11,7 +11,7 @@ We will start:
 * On January 4th, at <time datetime="2021-01-04T15:00+01:00">3pm</time> local <span>(3pm CET)</span>
 * On January 5th, at <time datetime="2021-01-05T12:00+01:00">noon</time> local <span>(noon CET)</span>
 * On January 6th, at <time datetime="2021-01-06T16:00+01:00">4pm</time> local <span>(4pm CET)</span>
-* On January 7th, at <time datetime="2021-01-07T15:00+01:00">3pm</time> local <span>(3pm CET)</span>
+* On January 7th, at <time datetime="2021-01-07T14:00+01:00">2pm</time> local <span>(2pm CET)</span>
 
 Sessions will last 4-5 hours including breaks.
 

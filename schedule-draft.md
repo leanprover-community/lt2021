@@ -69,6 +69,6 @@ Sessions will last 4-5 hours including breaks.
 | <time datetime="2021-01-04T16:00+01:00">4:00pm</time> local (4:00pm CET) | Alena Gusakov |
 | <time datetime="2021-01-04T16:30+01:00">4:30pm</time> local (4:30pm CET) | Panel: Teaching with proof assistants |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm</time> local (5:30pm CET) | Coffee break |
-| <time datetime="2021-01-04T18:00+01:00">6:00pm</time> local (6:00pm CET) | Peter Nelson |
+| <time datetime="2021-01-04T18:00+01:00">6:00pm</time> local (6:00pm CET) | Logan Murphy |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm</time> local (6:30pm CET) | Thomas Browning and Patrick Lutz |
 | <time datetime="2021-01-04T19:00+01:00">7:00pm</time> local (7:00pm CET) | Social time |

@@ -1,5 +1,4 @@
 $(function() {
-	    console.log( "ready!" );
 $('time').each(function() { 
     if (Intl.DateTimeFormat().resolvedOptions().timeZone == 'Europe/Paris') {
 	    $(this).siblings('span').hide()

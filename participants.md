@@ -22,9 +22,11 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Riccardo Brasca
 * Kevin Buzzard
 * Agnishom Chattopadhyay
+* Ilaria Colazzo
 * Johan Commelin
 * Tom Cuchta
 * Anatole Dedecker
+* Alessio Di Sandro
 * Stefania Dumbrava
 * Frédéric Dupuis
 * Sara Fish
@@ -54,6 +56,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * David Nowak
 * Filippo A. E. Nuccio
 * Javier Prieto
+* Casper Putz
 * Alexandre Rademaker
 * Iván Rendo Barreiro
 * Wrenna Robson
@@ -76,6 +79,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Shengyi Wang
 * Makarius Wenzel
 * William Whistler
+* Eric Wieser
 * Lucas Wilcox
 * Yuhuai Wu
 * Shekh Mohammed Zahid

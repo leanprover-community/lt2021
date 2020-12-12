@@ -26,7 +26,7 @@ Sessions will last 4-5 hours including breaks.
 | <time datetime="2021-01-04T15:00+01:00">3:00pm</time> local (3:00pm CET) | Rob Lewis and Patrick Massot<br>*Opening remarks* |
 | <time datetime="2021-01-04T15:15+01:00">3:15pm</time> local (3:15pm CET) | Floris van Doorn<br>*Measure theory* |
 | <time datetime="2021-01-04T15:45+01:00">3:45pm</time> local (3:45pm CET) | Heather Macbeth |
-| <time datetime="2021-01-04T16:15+01:00">4:15pm</time> local (4:15pm CET) | Ed Ayers<br>*Widgets* |
+| <time datetime="2021-01-04T16:15+01:00">4:15pm</time> local (4:15pm CET) | Ed Ayers<br>*Widgets: interactive output in VSCode* |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm</time> local (5:00pm CET) | Coffee break |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm</time> local (5:30pm CET) | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm</time> local (6:30pm CET) | Lean 4 Q&A |

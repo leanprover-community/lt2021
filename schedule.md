@@ -67,7 +67,7 @@ Sessions will last 4-5 hours including breaks.
 | Time      | Speaker            |
 | --------- | ------------------ |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm</time> local (2:00pm CET) | Marie Kerjean |
-| <time datetime="2021-01-04T14:30+01:00">2:30pm</time> local (2:30pm CET) | Damiano Testa |
+| <time datetime="2021-01-04T14:30+01:00">2:30pm</time> local (2:30pm CET) | Damiano Testa<br>*Mathematical insights from using Lean* |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm</time> local (3:00pm CET) | Amelia Livingston<br>*Two ways to formalise exterior algebras* |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm</time> local (3:30pm CET) | Coffee break |
 | <time datetime="2021-01-04T16:00+01:00">4:00pm</time> local (4:00pm CET) | Alena Gusakov |

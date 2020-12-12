@@ -15,11 +15,13 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Aniruddh Agarwal
 * James Arthur
 * Jeremy Avigad
+* Ed Ayers
 * Kimaya Bedarkar
 * Alexander Bentkamp
 * Alexander Best
 * Helmut Brandl
 * Riccardo Brasca
+* Thomas Browning
 * Kevin Buzzard
 * Agnishom Chattopadhyay
 * Ilaria Colazzo
@@ -27,6 +29,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Tom Cuchta
 * Anatole Dedecker
 * Alessio Di Sandro
+* Floris van Doorn
 * Stefania Dumbrava
 * Frédéric Dupuis
 * Sara Fish
@@ -34,35 +37,52 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Colin Gordon
 * Sébastien Gouëzel
 * Darij Grinberg
+* Alena Gusakov
 * Jesse Michael Han
 * Maximilian P.L. Haslbeck
+* Joe Hendrix
+* Chris Hughes
+* Marie Kerjean
 * Huỳnh Trần Khanh
 * Peter Koepke
 * Alexander Kogtenkov
 * Alex Kontorovich
+* Yury Kudryashov
 * Shing Tak Lam
+* Kenny Lau
 * Gyesik Lee
 * Robert Y. Lewis
 * Wenda Li
+* Jannis Limperg
+* Amelia Livingston
 * Jean Lo
+* Patrick Lutz
+* Heather Macbeth
 * Lia Malato
 * Gihan Marasingha
 * Patrick Massot
 * Orestis Melkonian
 * Kyle Miller
 * Owen Milner
+* Leonardo de Moura
+* Logan Murphy
 * Ashvni Narayanan
 * Wojciech Nawrocki
+* Paula Neeley
+* Peter Nelson
 * David Nowak
 * Filippo A. E. Nuccio
+* Stanislaus Polu
 * Javier Prieto
 * Casper Putz
 * Alexandre Rademaker
 * Iván Rendo Barreiro
 * Wrenna Robson
 * Jared Roesch
+* Jason Rute
 * Daniel Selsam
 * Ramy Shahin
+* Yasmine Sharoda
 * Parth Shimpi
 * William Simmons
 * Gunjeet Singh
@@ -73,7 +93,11 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Zygimantas Straznickas
 * Sorin Suciu
 * Kevin Sullivan
+* Damiano Testa
 * Fox Thomson
+* Adam Topaz
+* Sebastian Ullrich
+* Koundinya Vajjha
 * Huub Vromen
 * Richard Waldinger
 * Shengyi Wang

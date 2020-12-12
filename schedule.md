@@ -43,7 +43,7 @@ Sessions will last 4-5 hours including breaks.
 | <time datetime="2021-01-04T14:00+01:00">2:00pm</time> local (2:00pm CET) | Stanislaus Polu<br>*OpenAI Metamath GPT-f* |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm</time> local (3:00pm CET) | Jason Rute<br>*Machine learning datasets for Lean* |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm</time> local (3:30pm CET) | Coffee break |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm</time> local (4:00pm CET) | Kody Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
+| <time datetime="2021-01-04T16:00+01:00">4:00pm</time> local (4:00pm CET) | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
 | <time datetime="2021-01-04T16:30+01:00">4:30pm</time> local (4:30pm CET) | Yury Kudryashov<br>*Dynamics on the circle* |
 | <time datetime="2021-01-04T17:15+01:00">5:15pm</time> local (5:15pm CET) | Social time |
 

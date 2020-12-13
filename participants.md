@@ -16,6 +16,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * James Arthur
 * Jeremy Avigad
 * Ed Ayers
+* Jordan Mitchell Barrett
 * Kimaya Bedarkar
 * Alexander Bentkamp
 * Alexander Best
@@ -72,10 +73,12 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Peter Nelson
 * David Nowak
 * Filippo A. E. Nuccio
+* Yakov Pechersky
 * Stanislaus Polu
 * Javier Prieto
 * Casper Putz
 * Alexandre Rademaker
+* Sebastian Reichelt
 * Iván Rendo Barreiro
 * Wrenna Robson
 * Jared Roesch
@@ -83,6 +86,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Daniel Selsam
 * Ramy Shahin
 * Yasmine Sharoda
+* Yunong Shi
 * Parth Shimpi
 * William Simmons
 * Gunjeet Singh

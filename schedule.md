@@ -19,6 +19,9 @@ We will start:
 
 Sessions will last 4-5 hours including breaks.
 
+Social time will be held on [wonder.me](https://www.wonder.me/).
+We will open the room before and after each day's events.
+
 ## Monday, January 4
 
 | Time      | Speaker            |

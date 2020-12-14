@@ -23,6 +23,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Helmut Brandl
 * Riccardo Brasca
 * Thomas Browning
+* Ulrik Buchholtz
 * Kevin Buzzard
 * Agnishom Chattopadhyay
 * Ilaria Colazzo
@@ -35,6 +36,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Frédéric Dupuis
 * Sara Fish
 * Alcides Fonseca
+* Brittany Gelb
 * Colin Gordon
 * Sébastien Gouëzel
 * Darij Grinberg
@@ -54,6 +56,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Gyesik Lee
 * Robert Y. Lewis
 * Wenda Li
+* Archie Licudi
 * Jannis Limperg
 * Amelia Livingston
 * Jean Lo
@@ -97,6 +100,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Zygimantas Straznickas
 * Sorin Suciu
 * Kevin Sullivan
+* Eric G Taucher
 * Damiano Testa
 * Fox Thomson
 * Adam Topaz

@@ -21,6 +21,8 @@ Sessions will last 4-5 hours including breaks.
 
 Social time will be held on [wonder.me](https://www.wonder.me/).
 We will open the room before and after each day's events.
+The social time on Monday is "official":
+if you're only planning to attend one social event, try to make it this one.
 
 ## Monday, January 4
 
@@ -34,7 +36,7 @@ We will open the room before and after each day's events.
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | State of mathlib + porting discussion |
-| <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time |
+| <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time ("workshop dinner") |
 
 ## Tuesday, January 5
 

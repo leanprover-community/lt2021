@@ -64,7 +64,7 @@ if you're only planning to attend one social event, try to make it this one.
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>*Verification of a binary compiler in Lean 4* |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>*Baby steps toward formalizing results in anabelian geometry* |
-| <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson |
+| <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson<br>*Formalising matroids* |
 | <time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Social time |
 
 ## Thursday, January 7

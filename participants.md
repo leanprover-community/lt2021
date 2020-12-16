@@ -17,6 +17,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Jeremy Avigad
 * Ed Ayers
 * Jordan Mitchell Barrett
+* Reid Barton
 * Kimaya Bedarkar
 * Alexander Bentkamp
 * Alexander Best
@@ -45,12 +46,14 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Maximilian P.L. Haslbeck
 * Joe Hendrix
 * Chris Hughes
+* Vaibhav Karve
 * Marie Kerjean
 * Huỳnh Trần Khanh
 * Peter Koepke
 * Alexander Kogtenkov
 * Alex Kontorovich
 * Yury Kudryashov
+* Adam Kurkiewicz
 * Shing Tak Lam
 * Kenny Lau
 * Gyesik Lee
@@ -77,6 +80,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * David Nowak
 * Filippo A. E. Nuccio
 * Yakov Pechersky
+* Joonas Pihlaja
 * Stanislaus Polu
 * Javier Prieto
 * Casper Putz

@@ -24,6 +24,18 @@ We will open the room before and after each day's events.
 The social time on Monday is "official":
 if you're only planning to attend one social event, try to make it this one.
 
+## Prerecorded Talks
+
+Some talks were added to our program too late to fit in the live schedule.
+We have included these as pre-recorded talks. Video links will be posted here.
+The speakers will be available during specified social hours to discuss their presentations:
+look for them on [wonder.me](https://www.wonder.me/)!
+
+| Q&A Time | Speaker |
+| <time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)* |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
+
+
 ## Monday, January 4
 
 | Time      | Speaker            |

@@ -12,10 +12,12 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 
 ## Participants
 
+* Mohammad Abdulaziz
 * Aniruddh Agarwal
 * James Arthur
 * Jeremy Avigad
 * Ed Ayers
+* Thomas Ball
 * Jordan Mitchell Barrett
 * Reid Barton
 * Kimaya Bedarkar
@@ -26,10 +28,12 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Thomas Browning
 * Ulrik Buchholtz
 * Kevin Buzzard
+* Lisa Cenek
 * Agnishom Chattopadhyay
 * Ilaria Colazzo
 * Johan Commelin
 * Tom Cuchta
+* Sander Dahmen
 * Anatole Dedecker
 * Alessio Di Sandro
 * Floris van Doorn
@@ -37,6 +41,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Frédéric Dupuis
 * Sara Fish
 * Alcides Fonseca
+* Andrei Galusca
 * Brittany Gelb
 * Colin Gordon
 * Sébastien Gouëzel
@@ -46,6 +51,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Maximilian P.L. Haslbeck
 * Joe Hendrix
 * Chris Hughes
+* Peter Jipsen
 * Vaibhav Karve
 * Marie Kerjean
 * Huỳnh Trần Khanh
@@ -56,7 +62,9 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Adam Kurkiewicz
 * Shing Tak Lam
 * Kenny Lau
+* Edward Lee
 * Gyesik Lee
+* Ken Lee
 * Robert Y. Lewis
 * Wenda Li
 * Archie Licudi
@@ -68,6 +76,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Lia Malato
 * Gihan Marasingha
 * Patrick Massot
+* Bhavik Mehta
 * Orestis Melkonian
 * Kyle Miller
 * Owen Milner
@@ -90,6 +99,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Wrenna Robson
 * Jared Roesch
 * Jason Rute
+* Olli Saarikivi
 * Daniel Selsam
 * Ramy Shahin
 * Yasmine Sharoda
@@ -104,6 +114,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Zygimantas Straznickas
 * Sorin Suciu
 * Kevin Sullivan
+* Nikhil Swamy
 * Eric G Taucher
 * Damiano Testa
 * Fox Thomson
@@ -119,3 +130,4 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Lucas Wilcox
 * Yuhuai Wu
 * Shekh Mohammed Zahid
+* Meyer Zinn

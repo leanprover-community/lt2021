@@ -20,6 +20,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Thomas Ball
 * Jordan Mitchell Barrett
 * Reid Barton
+* Tim Baumann
 * Kimaya Bedarkar
 * Alexander Bentkamp
 * Alexander Best
@@ -36,9 +37,11 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Sander Dahmen
 * Anatole Dedecker
 * Alessio Di Sandro
+* Adrián Doña Mateo
 * Floris van Doorn
 * Stefania Dumbrava
 * Frédéric Dupuis
+* Johannes Emerich
 * Sara Fish
 * Alcides Fonseca
 * Andrei Galusca
@@ -51,6 +54,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Maximilian P.L. Haslbeck
 * Joe Hendrix
 * Chris Hughes
+* Paul Jackson
 * Peter Jipsen
 * Vaibhav Karve
 * Marie Kerjean
@@ -108,6 +112,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * William Simmons
 * Gunjeet Singh
 * Ezra Sitorus
+* Emil Sköldberg
 * Andrew Souther
 * Leo Stefanesco
 * Lukas Stevens
@@ -118,6 +123,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Eric G Taucher
 * Damiano Testa
 * Fox Thomson
+* Cesare Tinelli
 * Adam Topaz
 * Sebastian Ullrich
 * Koundinya Vajjha

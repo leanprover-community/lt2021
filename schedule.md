@@ -69,7 +69,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | Time      | Speaker            |
 | --------- | ------------------ |
 | <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau |
+| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau<br>*Formalizing Perfectoid Fields* |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4* |

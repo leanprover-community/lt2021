@@ -1,5 +1,5 @@
 $(function() {
-    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone
+    var tz = moment.tz.guess() // Intl.DateTimeFormat().resolvedOptions().timeZone
 
 		$('time').each(function() {
 				var dt = new Date($(this).attr('datetime'));

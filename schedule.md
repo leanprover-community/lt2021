@@ -32,8 +32,8 @@ The speakers will be available during specified social hours to discuss their pr
 look for them on [wonder.me](https://www.wonder.me/)!
 
 | Q&A Time | Speaker |
-| <time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)* |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
+| Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)* |
+| Thursday, Jan 7<br><time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
 
 
 ## Monday, January 4

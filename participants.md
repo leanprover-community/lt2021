@@ -106,6 +106,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Jakob von Raumer
 * Sebastian Reichelt
 * Iván Rendo Barreiro
+* David Renshaw
 * Wrenna Robson
 * Jared Roesch
 * Jason Rute

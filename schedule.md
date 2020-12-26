@@ -33,6 +33,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 
 | Q&A Time | Speaker |
 | Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)* |
+| Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve |
 | Thursday, Jan 7<br><time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
 
 

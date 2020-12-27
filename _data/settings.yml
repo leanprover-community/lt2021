@@ -12,8 +12,4 @@ menu:
 - {name: 'Participants', path: '', url: 'participants.html'}
 - {name: 'Contact', path: '', url: 'contact.html'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- {icon: 'rss-square', link: '/feed.xml'}
-
 sharing_button_prompt: 'Feel free to share!'

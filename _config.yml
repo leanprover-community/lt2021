@@ -10,14 +10,11 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# jekyll-paginate configuration
-paginate:            5
-
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-sitemap, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Lean Together 2021'

@@ -14,9 +14,11 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 
 * Mohammad Abdulaziz
 * Aniruddh Agarwal
+* Mohamed Al-Fahim
 * James Arthur
 * Jeremy Avigad
 * Ed Ayers
+* Chris Bailey
 * Thomas Ball
 * Jordan Mitchell Barrett
 * Reid Barton
@@ -25,6 +27,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Alexander Bentkamp
 * Alexander Best
 * Julian Berman
+* Jasmin Blanchette
 * Helmut Brandl
 * Riccardo Brasca
 * Thomas Browning
@@ -32,6 +35,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Kevin Buzzard
 * Lisa Cenek
 * Agnishom Chattopadhyay
+* Horatiu Cheval
 * Ilaria Colazzo
 * Johan Commelin
 * Tom Cuchta
@@ -40,6 +44,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Alessio Di Sandro
 * Adrián Doña Mateo
 * Floris van Doorn
+* François G. Dorais
 * Stefania Dumbrava
 * Frédéric Dupuis
 * Johannes Emerich
@@ -52,11 +57,15 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Sébastien Gouëzel
 * Darij Grinberg
 * Mathieu Guay-Paquet
+* Furong Guo
 * Alena Gusakov
 * Jesse Michael Han
 * Maximilian P.L. Haslbeck
 * Joe Hendrix
+* Markus Himmel
+* Tom Houle
 * Chris Hughes
+* Marc Huisinga
 * Paul Jackson
 * Peter Jipsen
 * Vaibhav Karve
@@ -79,8 +88,10 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Jannis Limperg
 * Amelia Livingston
 * Jean Lo
+* Juan Lucas Rey
 * Patrick Lutz
 * Heather Macbeth
+* Marc Masdeu
 * Lia Malato
 * Gihan Marasingha
 * Patrick Massot
@@ -89,6 +100,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Kyle Miller
 * Owen Milner
 * Leonardo de Moura
+* Anton Muratov
 * Logan Murphy
 * Ashvni Narayanan
 * Wojciech Nawrocki
@@ -96,6 +108,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Peter Nelson
 * David Nowak
 * Filippo A. E. Nuccio
+* Euan Ong
 * Alex Peattie
 * Yakov Pechersky
 * Joonas Pihlaja

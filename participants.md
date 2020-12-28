@@ -29,6 +29,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Alexander Best
 * Julian Berman
 * Jasmin Blanchette
+* Dimitris Bogiokas
 * Helmut Brandl
 * Riccardo Brasca
 * Thomas Browning
@@ -61,8 +62,10 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * H. Peter Gumm
 * Furong Guo
 * Alena Gusakov
+* Tom Hales
 * Jesse Michael Han
 * Maximilian P.L. Haslbeck
+* Joel Healy
 * Joe Hendrix
 * Markus Himmel
 * Tom Houle
@@ -70,6 +73,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Marc Huisinga
 * Paul Jackson
 * Peter Jipsen
+* Timotheus Kampik
 * Vaibhav Karve
 * Marie Kerjean
 * Huỳnh Trần Khanh
@@ -97,6 +101,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Lia Malato
 * Gihan Marasingha
 * Patrick Massot
+* Chris McNally
 * Bhavik Mehta
 * Orestis Melkonian
 * Kyle Miller
@@ -114,6 +119,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Alex Peattie
 * Yakov Pechersky
 * Joonas Pihlaja
+* Josh Pollock
 * Stanislaus Polu
 * Javier Prieto
 * Casper Putz
@@ -144,6 +150,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Nikhil Swamy
 * Eric G Taucher
 * Damiano Testa
+* Noe Thalheim
 * Fox Thomson
 * Cesare Tinelli
 * Adam Topaz
@@ -160,4 +167,5 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Minchao Wu
 * Yuhuai Wu
 * Shekh Mohammed Zahid
+* Darren Zhu
 * Meyer Zinn

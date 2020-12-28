@@ -15,6 +15,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Mohammad Abdulaziz
 * Aniruddh Agarwal
 * Mohamed Al-Fahim
+* Aaron Anderson
 * James Arthur
 * Jeremy Avigad
 * Ed Ayers
@@ -57,6 +58,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Sébastien Gouëzel
 * Darij Grinberg
 * Mathieu Guay-Paquet
+* H. Peter Gumm
 * Furong Guo
 * Alena Gusakov
 * Jesse Michael Han
@@ -145,6 +147,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Fox Thomson
 * Cesare Tinelli
 * Adam Topaz
+* Devon Tuma
 * Sebastian Ullrich
 * Koundinya Vajjha
 * Huub Vromen

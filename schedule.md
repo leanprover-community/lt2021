@@ -84,7 +84,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean |
+| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean<br>*Complex analysis through a hierarchy of real-analysis structures* |
 | <time datetime="2021-01-04T14:30+01:00">2:30pm CET</time> | Damiano Testa<br>*Mathematical insights from using Lean* |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>*Two ways to formalise exterior algebras* |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |

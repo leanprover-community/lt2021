@@ -43,7 +43,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | --------- | ------------------ |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>*Opening remarks* |
 | <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>*Measure theory* |
-| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth |
+| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>*An example of a manifold* |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>*Widgets: interactive output in VSCode* |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |

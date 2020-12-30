@@ -44,11 +44,13 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Sander Dahmen
 * Anatole Dedecker
 * Alessio Di Sandro
+* Ender Doe
 * Adrián Doña Mateo
 * Floris van Doorn
 * François G. Dorais
 * Stefania Dumbrava
 * Frédéric Dupuis
+* Tom Ellis
 * Johannes Emerich
 * Ramon Fernández Mir
 * Sara Fish
@@ -100,13 +102,16 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Marc Masdeu
 * Lia Malato
 * Gihan Marasingha
+* Adrian Marti
 * Patrick Massot
 * Chris McNally
 * Bhavik Mehta
 * Orestis Melkonian
 * Kyle Miller
+* Victor Miller
 * Owen Milner
 * Leonardo de Moura
+* James Mulnix
 * Anton Muratov
 * Logan Murphy
 * Ashvni Narayanan

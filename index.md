@@ -31,8 +31,6 @@ longer talks about more mature projects,
 and some open discussion/planning sessions.
 We will also have social time on [wonder.me](https://www.wonder.me/) before and after the sessions.
 
-More detailed scheduling information will appear in the following weeks.
-
 With the speakers' permission, talks will be recorded and posted to the
 [leanprover community YouTube channel](https://www.youtube.com/channel/UCWe5B7Ikr0AI9727doEUxPg).
 

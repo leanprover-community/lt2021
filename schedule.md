@@ -5,9 +5,7 @@ author: "Community"
 dates: true
 ---
 
-The workshop will take place virtually via Zoom, the week of Jan 4. The
-schedule is still provisional. Please come back here for updates.
-
+The workshop will take place virtually via Zoom, the week of Jan 4.
 We tried to schedule things acceptably for various timezones,
 starting at different times on different days.
 

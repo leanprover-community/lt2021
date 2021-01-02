@@ -34,10 +34,13 @@ We will also have social time on [wonder.me](https://www.wonder.me/) before and 
 With the speakers' permission, talks will be recorded and posted to the
 [leanprover community YouTube channel](https://www.youtube.com/channel/UCWe5B7Ikr0AI9727doEUxPg).
 
+Discussions related to the event will happen on the Lean [Zulip chat channel](https://leanprover.zulipchat.com/).
+
 ## Registration
 
 To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
 We will email you the Zoom link before the event.
+The links can also be found in the Lean Together 2021 stream of the [Zulip chat](https://leanprover.zulipchat.com/).
 
 ## Previous events
 

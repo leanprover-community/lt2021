@@ -38,12 +38,15 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Lisa Cenek
 * Agnishom Chattopadhyay
 * Horatiu Cheval
+* Minsung Cho
 * Ilaria Colazzo
+* Mauricio Collares
 * Johan Commelin
 * Tom Cuchta
 * Sander Dahmen
 * Anatole Dedecker
 * Alessio Di Sandro
+* Yevhenii Diomidov
 * Ender Doe
 * Adrián Doña Mateo
 * Floris van Doorn
@@ -52,6 +55,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Frédéric Dupuis
 * Tom Ellis
 * Johannes Emerich
+* Zhou Fang
 * Ramon Fernández Mir
 * Sara Fish
 * Alcides Fonseca
@@ -110,6 +114,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Kyle Miller
 * Victor Miller
 * Owen Milner
+* Scott Morrison
 * Leonardo de Moura
 * James Mulnix
 * Anton Muratov
@@ -133,6 +138,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Sebastian Reichelt
 * Iván Rendo Barreiro
 * David Renshaw
+* Devon Richards
 * Wrenna Robson
 * Jared Roesch
 * Jason Rute
@@ -152,6 +158,7 @@ Registration is not required, but will let us keep you updated with the Zoom lin
 * Zygimantas Straznickas
 * Sorin Suciu
 * Kevin Sullivan
+* Vanessa Sun
 * Nikhil Swamy
 * Eric G Taucher
 * Damiano Testa

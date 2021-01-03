@@ -14,6 +14,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 ## Participants
 
 * Mohammad Abdulaziz
+* Sadjad Abolfathi
 * Aniruddh Agarwal
 * Mohamed Al-Fahim
 * Aaron Anderson
@@ -59,6 +60,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Zhou Fang
 * Ramon Fernández Mir
 * Sara Fish
+* Mathias Fleury
 * Alcides Fonseca
 * Andrei Galusca
 * Brittany Gelb
@@ -133,6 +135,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Joonas Pihlaja
 * Josh Pollock
 * Stanislaus Polu
+* Filipe Prezado
 * Javier Prieto
 * Casper Putz
 * Alexandre Rademaker

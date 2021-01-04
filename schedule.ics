@@ -14,7 +14,7 @@ SUMMARY:{{ post.title }}
 CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
 {% if forloop.last %}DTEND:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
-{% else %}{% assign next_i = forloop.index0 | plus: 1 %}DTEND:{{ talks_by_day[next_i].date | date: "%Y%m%dT%H%M%SZ" }}
+{% else %}{% assign next_i = forloop.index0 | plus: 1 %}DTEND:{{ day.items[next_i].date | date: "%Y%m%dT%H%M%SZ" }}
 {% endif %}DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 END:VEVENT
 {% endfor %}

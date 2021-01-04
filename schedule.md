@@ -30,7 +30,7 @@ The speakers will be available during specified social hours to discuss their pr
 look for them on [wonder.me](https://www.wonder.me/)!
 
 | Q&A Time | Speaker |
-| Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)* |
+| Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>[*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)*](https://www.youtube.com/watch?v=A7WfrW7-ifw) |
 | Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve |
 | Thursday, Jan 7<br><time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
 
@@ -72,7 +72,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4* |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>*Verification of a binary compiler in Lean 4* |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>*Towards verified decompilation using Lean 4* |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>*Baby steps toward formalizing results in anabelian geometry* |
 | <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson<br>*Formalising matroids* |

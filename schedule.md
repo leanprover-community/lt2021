@@ -46,7 +46,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | State of mathlib + porting discussion |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Discussion: porting mathlib to Lean 4 |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time ("workshop dinner") |
 
 ## Tuesday, January 5

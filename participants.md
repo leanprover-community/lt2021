@@ -21,6 +21,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * James Arthur
 * Jeremy Avigad
 * Ed Ayers
+* Anne Baanen
 * Chris Bailey
 * Thomas Ball
 * Jordan Mitchell Barrett
@@ -135,6 +136,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Peter Nelson
 * David Nowak
 * Filippo A. E. Nuccio
+* Duckki Oe
 * Euan Ong
 * Alex Peattie
 * Yakov Pechersky

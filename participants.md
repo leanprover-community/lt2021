@@ -27,13 +27,16 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Reid Barton
 * Tim Baumann
 * Kimaya Bedarkar
+* Michael Beeson
 * Alexander Bentkamp
+* Luis Berlioz
 * Alexander Best
 * Julian Berman
 * Jasmin Blanchette
 * Dimitris Bogiokas
 * Helmut Brandl
 * Riccardo Brasca
+* Jordan Brown
 * Thomas Browning
 * Ulrik Buchholtz
 * Kevin Buzzard
@@ -44,8 +47,10 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Ilaria Colazzo
 * Mauricio Collares
 * Johan Commelin
+* Juan Criado del Rey
 * Tom Cuchta
 * Sander Dahmen
+* Benjamin Davidson
 * Anatole Dedecker
 * Alessio Di Sandro
 * Yevhenii Diomidov
@@ -63,6 +68,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Mathias Fleury
 * Alcides Fonseca
 * Andrei Galusca
+* Jacob Garber
 * Brittany Gelb
 * Colin Gordon
 * Sébastien Gouëzel
@@ -140,9 +146,11 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Casper Putz
 * Alexandre Rademaker
 * Jakob von Raumer
+* Miguel Raz Guzman
 * Sebastian Reichelt
 * Iván Rendo Barreiro
 * David Renshaw
+* Matt Rice
 * Devon Richards
 * Wrenna Robson
 * Jared Roesch
@@ -157,6 +165,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Gunjeet Singh
 * Ezra Sitorus
 * Emil Sköldberg
+* Calle Sönne
 * Andrew Souther
 * Leo Stefanesco
 * Lukas Stevens

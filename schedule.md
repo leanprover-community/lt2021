@@ -22,7 +22,7 @@ We will open the room before and after each day's events.
 The social time on Monday is "official":
 if you're only planning to attend one social event, try to make it this one.
 
-A web calendar can be found [here](./calendar.ics)
+A web calendar can be found [here](./schedule.ics)
 
 ## Prerecorded Talks
 

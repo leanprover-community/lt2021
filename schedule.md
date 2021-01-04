@@ -38,67 +38,10 @@ look for them on [wonder.me](https://www.wonder.me/)!
 {% for day in talks_by_day %}
 <h2>{{ day.name }}</h2>
 <table>
+  <tr><th>Time</th><th>Speaker</th></tr>
   {% for talk in day.items %}
   <tr><td><time datetime="{{ talk.date }}">{{ talk.date | date: "%h:%M %p CET" }}</time></td>
-    <td>{{post.presenter}}<br /><em>{{post.title}}</em></td></tr>
+      <td>{{talk.presenter}}<br /><em>{{talk.title}}</em></td></tr>
   {% endfor %}
 </table>
 {% endfor %}
-
-## Monday, January 4
-
-| Time      | Speaker            |
-| --------- | ------------------ |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>*Opening remarks* |
-| <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>*Measure theory* |
-| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>*An example of a manifold* |
-| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>*Widgets: interactive output in VSCode* |
-| <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |
-| <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Discussion: porting mathlib to Lean 4 |
-| <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time ("workshop dinner") |
-
-## Tuesday, January 5
-
-| Time      | Speaker            |
-| --------- | ------------------ |
-| <time datetime="2021-01-04T12:00+01:00">12:00pm CET</time> | Jannis Limperg<br>*Towards general-purpose automation for Lean* |
-| <time datetime="2021-01-04T12:45+01:00">12:45pm CET</time> | Chris Hughes<br>*Word problem for one-relator groups* |
-| <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>*Machine learning datasets for Lean* |
-| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
-| <time datetime="2021-01-04T16:45+01:00">4:45pm CET</time> | Yury Kudryashov<br>*Dynamics on the circle* |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Social time |
-
-## Wednesday, January 6
-
-| Time      | Speaker            |
-| --------- | ------------------ |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau<br>*Formalizing Perfectoid Fields* |
-| <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4* |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>*Towards verified decompilation using Lean 4* |
-| <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>*Baby steps toward formalizing results in anabelian geometry* |
-| <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson<br>*Formalising matroids* |
-| <time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Social time |
-
-## Thursday, January 7
-
-| Time      | Speaker            |
-| --------- | ------------------ |
-| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean<br>*Complex analysis through a hierarchy of real-analysis structures* |
-| <time datetime="2021-01-04T14:30+01:00">2:30pm CET</time> | Damiano Testa<br>*Mathematical insights from using Lean* |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>*Two ways to formalise exterior algebras* |
-| <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Alena Gusakov<br>*Formalizing Hall's Marriage Theorem* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Panel/discussion: Teaching with proof assistants |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Logan Murphy<br>*Provably Deductive Assurance Cases* |
-| <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Thomas Browning and Patrick Lutz<br>*Galois theory* |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Social time |

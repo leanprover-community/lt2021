@@ -22,6 +22,11 @@ We will open the room before and after each day's events.
 The social time on Monday is "official":
 if you're only planning to attend one social event, try to make it this one.
 
+## Recordings
+
+We have created a [YouTube playlist](https://www.youtube.com/playlist?list=PLlF-CfQhukNnO8z3TcFcoKozif9gbl7Yt) of all the talks.
+This will be updated as the workshop continues.
+
 ## Prerecorded Talks
 
 Some talks were added to our program too late to fit in the live schedule.
@@ -39,12 +44,12 @@ look for them on [wonder.me](https://www.wonder.me/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>*Opening remarks* |
-| <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>*Measure theory* |
-| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>*An example of a manifold* |
-| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>*Widgets: interactive output in VSCode* |
+| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>[*Opening remarks*](https://www.youtube.com/watch?v=33l3gZohI40) |
+| <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>[*Measure theory*](https://www.youtube.com/watch?v=yH3-zE0bYCU) |
+| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>[*An example of a manifold*](https://www.youtube.com/watch?v=deppJ2q_5a0) |
+| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>[*Widgets: interactive output in VSCode*](https://www.youtube.com/watch?v=8NUBQEZYuis) |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*An overview of Lean 4* |
+| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*An overview of Lean 4*](https://www.youtube.com/watch?v=UeGvhfW1v9M) |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Discussion: porting mathlib to Lean 4 |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time ("workshop dinner") |

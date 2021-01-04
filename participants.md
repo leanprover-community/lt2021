@@ -47,6 +47,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Agnishom Chattopadhyay
 * Horatiu Cheval
 * Minsung Cho
+* Cyril Cohen
 * Ilaria Colazzo
 * Mauricio Collares
 * Johan Commelin
@@ -57,6 +58,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Adrian De Lon
 * Anatole Dedecker
 * Alessio Di Sandro
+* Henning Dieterichs
 * Yevhenii Diomidov
 * Ender Doe
 * Ning Dong
@@ -69,12 +71,16 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Johannes Emerich
 * Zhou Fang
 * Ramon Fernández Mir
+* Moritz Firsching
 * Sara Fish
 * Mathias Fleury
 * Alcides Fonseca
+* Richard Ford
+* Emilio Jesús Gallego Arias
 * Andrei Galusca
 * Jacob Garber
 * Brittany Gelb
+* Andres Goens
 * Colin Gordon
 * Sébastien Gouëzel
 * Darij Grinberg
@@ -90,6 +96,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Joe Hendrix
 * Markus Himmel
 * Tom Houle
+* Simon Hudon
 * Chris Hughes
 * Marc Huisinga
 * Paul Jackson
@@ -102,6 +109,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Alexander Kogtenkov
 * Alex Kontorovich
 * Dominic Kramer
+* Fabian Kruse
 * Yury Kudryashov
 * Adam Kurkiewicz
 * Kevin Lacker
@@ -130,6 +138,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Kyle Miller
 * Victor Miller
 * Owen Milner
+* Vedant Misra
 * Scott Morrison
 * Leonardo de Moura
 * James Mulnix
@@ -154,6 +163,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Alexandre Rademaker
 * Jakob von Raumer
 * Miguel Raz Guzman
+* Panda Răzvan
 * Sebastian Reichelt
 * Iván Rendo Barreiro
 * David Renshaw
@@ -171,11 +181,13 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Parth Shimpi
 * William Simmons
 * Gunjeet Singh
+* Kartik Singhal
 * Ezra Sitorus
 * Emil Sköldberg
 * Calle Sönne
 * Andrew Souther
 * Leo Stefanesco
+* Marcin Stepien
 * Lukas Stevens
 * Sam Stites
 * Zygimantas Straznickas

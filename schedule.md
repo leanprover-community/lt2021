@@ -22,6 +22,8 @@ We will open the room before and after each day's events.
 The social time on Monday is "official":
 if you're only planning to attend one social event, try to make it this one.
 
+A web calendar can be found [here](./calendar.ics)
+
 ## Prerecorded Talks
 
 Some talks were added to our program too late to fit in the live schedule.
@@ -34,7 +36,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve |
 | Thursday, Jan 7<br><time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
 
-{% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%A, %B %d'" %}
+{% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%A, %B %e'" %}
 {% for day in talks_by_day %}
 <h2>{{ day.name }}</h2>
 <table>

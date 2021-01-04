@@ -36,8 +36,13 @@ look for them on [wonder.me](https://www.wonder.me/)!
 
 {% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%A %B %w'" %}
 {% for day in talks_by_day %}
-## {{ day.title }}
-testing
+<h2>{{ day.name }}</h2>
+<table>
+  {% for talk in day.items %}
+  <tr><td><time datetime="{{ talk.date }}">{{ talk.date | date: "%h:%M %p CET" }}</time></td>
+    <td>{{post.presenter}}<br /><em>{{post.title}}</em></td></tr>
+  {% endfor %}
+</table>
 {% endfor %}
 
 ## Monday, January 4

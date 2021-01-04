@@ -58,10 +58,10 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>*Machine learning datasets for Lean* |
-| <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Yury Kudryashov<br>*Dynamics on the circle* |
-| <time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Social time |
+| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Coffee break |
+| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
+| <time datetime="2021-01-04T16:45+01:00">4:45pm CET</time> | Yury Kudryashov<br>*Dynamics on the circle* |
+| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Social time |
 
 ## Wednesday, January 6
 

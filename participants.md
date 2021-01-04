@@ -54,6 +54,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Tom Cuchta
 * Sander Dahmen
 * Benjamin Davidson
+* Adrian De Lon
 * Anatole Dedecker
 * Alessio Di Sandro
 * Yevhenii Diomidov

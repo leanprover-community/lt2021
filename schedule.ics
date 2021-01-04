@@ -5,7 +5,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://lean-prover-community.github.io/
 METHOD:PUBLISH
-{% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%Y%M%D'" %}
+{% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%Y%m%d'" %}
 {% for day in talks_by_day %}
 {% for post in day.items %}
 BEGIN:VEVENT
@@ -14,7 +14,7 @@ SUMMARY:{{ post.title }}
 CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
 {% if forloop.last %}DTEND:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
-{% else %}{% assign next_i = forloop.index0 | plus: 1 %}DTEND:{{ day.items[next_i].date | date: "%Y%m%dT%H%M%SZ" }}
+{% else %}{% assign next_i = forloop.index0 | plus: 1 %}{% assign next_post = day.items[next_i] %}DTEND:{{ next_post.date | date: "%Y%m%dT%H%M%SZ" }}
 {% endif %}DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 END:VEVENT
 {% endfor %}

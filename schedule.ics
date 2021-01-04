@@ -1,0 +1,16 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://lean-prover-community.github.io/
+METHOD:PUBLISH
+{% for post in site.data.schedule %}BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@lean-prover-community.github.io
+SUMMARY:{{ post.title }}
+CLASS:PUBLIC
+DTSTART:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
+DTEND:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
+DTSTAMP:{{ post.date | date: "%Y%m%dT%H%M%SZ" }}
+END:VEVENT{% endfor %}
+END:VCALENDAR

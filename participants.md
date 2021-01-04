@@ -25,6 +25,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Chris Bailey
 * Thomas Ball
 * Jordan Mitchell Barrett
+* Filip Bártek
 * Reid Barton
 * Tim Baumann
 * Kimaya Bedarkar
@@ -80,6 +81,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Alena Gusakov
 * Tom Hales
 * Jesse Michael Han
+* Jörg Hanisch
 * Maximilian P.L. Haslbeck
 * Joel Healy
 * Joe Hendrix
@@ -156,6 +158,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Devon Richards
 * Wrenna Robson
 * Jared Roesch
+* Bob Rubbens
 * Jason Rute
 * Olli Saarikivi
 * Daniel Selsam
@@ -173,6 +176,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Lukas Stevens
 * Zygimantas Straznickas
 * Sorin Suciu
+* Martin Suda
 * Kevin Sullivan
 * Vanessa Sun
 * Nikhil Swamy

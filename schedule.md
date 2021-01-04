@@ -34,6 +34,11 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve |
 | Thursday, Jan 7<br><time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Alex Best |
 
+{% assign talks_by_day = site.data.schedule | group_by_exp:"post", "post.date | date: '%A %B %w'" %}
+{% for day in talks_by_day %}
+## {{ day.title }}
+testing
+{% endfor %}
 
 ## Monday, January 4
 

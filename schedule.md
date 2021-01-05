@@ -58,7 +58,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T12:00+01:00">12:00pm CET</time> | Jannis Limperg<br>*Towards general-purpose automation for Lean* |
+| <time datetime="2021-01-04T12:00+01:00">12:00pm CET</time> | Jannis Limperg<br>*Towards general-purpose automation for Lean* ([slides](slides/jannis.pdf))|
 | <time datetime="2021-01-04T12:45+01:00">12:45pm CET</time> | Chris Hughes<br>*Word problem for one-relator groups* |
 | <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* ([slides](https://docs.google.com/presentation/d/10XcMLgh7wDRDtcj4FKqgEtqqWzZpkxmLDwpnWPntyP0/edit#slide=id.g97b8cb2395_0_0)) |

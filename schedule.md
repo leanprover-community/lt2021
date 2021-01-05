@@ -45,8 +45,8 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | Time      | Speaker            |
 | --------- | ------------------ |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>[*Opening remarks*](https://www.youtube.com/watch?v=33l3gZohI40) |
-| <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>[*Measure theory*](https://www.youtube.com/watch?v=yH3-zE0bYCU) |
-| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>[*An example of a manifold*](https://www.youtube.com/watch?v=deppJ2q_5a0) |
+| <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>[*Measure theory*](https://www.youtube.com/watch?v=yH3-zE0bYCU) ([slides](slides/floris-measure.pdf)) |
+| <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>[*An example of a manifold*](https://www.youtube.com/watch?v=deppJ2q_5a0) ([slides](slides/Macbeth-slides.pdf)) |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>[*Widgets: interactive output in VSCode*](https://www.youtube.com/watch?v=8NUBQEZYuis) |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*An overview of Lean 4*](https://www.youtube.com/watch?v=UeGvhfW1v9M) |
@@ -61,7 +61,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T12:00+01:00">12:00pm CET</time> | Jannis Limperg<br>*Towards general-purpose automation for Lean* |
 | <time datetime="2021-01-04T12:45+01:00">12:45pm CET</time> | Chris Hughes<br>*Word problem for one-relator groups* |
 | <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* |
+| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* ([slides](https://docs.google.com/presentation/d/10XcMLgh7wDRDtcj4FKqgEtqqWzZpkxmLDwpnWPntyP0/edit#slide=id.g97b8cb2395_0_0)) |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>*Machine learning datasets for Lean* |
 | <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |

@@ -29,7 +29,7 @@ We will vary the starting times of the sessions to accommodate people in differe
 We will have a mix of shorter talks about work in progress,
 longer talks about more mature projects,
 and some open discussion/planning sessions.
-We will also have social time on [wonder.me](https://www.wonder.me/) before and after the sessions.
+We will also have social time on [gather.town](https://www.gather.town/) before and after the sessions.
 
 With the speakers' permission, talks will be recorded and posted to the
 [leanprover community YouTube channel](https://www.youtube.com/channel/UCWe5B7Ikr0AI9727doEUxPg).

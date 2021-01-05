@@ -17,7 +17,7 @@ We will start:
 
 Sessions will last 4-5 hours including breaks.
 
-Social time will be held on [wonder.me](https://www.wonder.me/).
+Social time will be held on [gather.town](https://www.gather.town/).
 We will open the room before and after each day's events.
 The social time on Monday is "official":
 if you're only planning to attend one social event, try to make it this one.
@@ -32,7 +32,7 @@ This will be updated as the workshop continues.
 Some talks were added to our program too late to fit in the live schedule.
 We have included these as pre-recorded talks. Video links will be posted here.
 The speakers will be available during specified social hours to discuss their presentations:
-look for them on [wonder.me](https://www.wonder.me/)!
+look for them on [gather.town](https://www.gather.town/)!
 
 | Q&A Time | Speaker |
 | Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>[*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)*](https://www.youtube.com/watch?v=A7WfrW7-ifw) |

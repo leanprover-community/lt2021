@@ -99,6 +99,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Simon Hudon
 * Chris Hughes
 * Marc Huisinga
+* Matt Insall
 * Paul Jackson
 * Peter Jipsen
 * Timotheus Kampik
@@ -152,6 +153,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Filippo A. E. Nuccio
 * Duckki Oe
 * Euan Ong
+* Hrushikesh Pawar
 * Alex Peattie
 * Yakov Pechersky
 * Joonas Pihlaja

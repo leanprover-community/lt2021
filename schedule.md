@@ -62,7 +62,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T12:45+01:00">12:45pm CET</time> | Chris Hughes<br>*Word problem for one-relator groups* |
 | <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>*OpenAI Metamath GPT-f* ([slides](https://docs.google.com/presentation/d/10XcMLgh7wDRDtcj4FKqgEtqqWzZpkxmLDwpnWPntyP0/edit#slide=id.g97b8cb2395_0_0)) |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>*Machine learning datasets for Lean* |
+| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>*LeanStep: a dataset and environment for (interactive) neural theorem proving in Lean 3* |
 | <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Koundinya Vajjha<br>*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq* |
 | <time datetime="2021-01-04T16:45+01:00">4:45pm CET</time> | Yury Kudryashov<br>*Dynamics on the circle* |

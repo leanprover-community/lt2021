@@ -47,7 +47,7 @@ look for them on [wonder.me](https://www.wonder.me/)!
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Rob Lewis and Patrick Massot<br>[*Opening remarks*](https://www.youtube.com/watch?v=33l3gZohI40) ([slides](slides/intro.pdf))|
 | <time datetime="2021-01-04T15:15+01:00">3:15pm CET</time> | Floris van Doorn<br>[*Measure theory*](https://www.youtube.com/watch?v=yH3-zE0bYCU) ([slides](slides/floris-measure.pdf)) |
 | <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>[*An example of a manifold*](https://www.youtube.com/watch?v=deppJ2q_5a0) ([slides](slides/Macbeth-slides.pdf)) |
-| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>[*Widgets: interactive output in VSCode*](https://www.youtube.com/watch?v=8NUBQEZYuis) |
+| <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>[*Widgets: interactive output in VSCode*](https://www.youtube.com/watch?v=8NUBQEZYuis) ([slides](slides/EWAyers-Widgets-LT2021.pdf))|
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*An overview of Lean 4*](https://www.youtube.com/watch?v=UeGvhfW1v9M) |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |

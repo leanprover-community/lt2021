@@ -77,7 +77,7 @@ look for them on [gather.town](https://www.gather.town/)!
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>[*Generative Tools for Library Building*](https://www.youtube.com/watch?v=oizGM-NGbNE) ([slides](slides/yasmine-slides.pdf), [repo](https://github.com/ysharoda/Deriving-Definitions)) |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*Metaprogramming in Lean 4*](https://www.youtube.com/watch?v=hxQ1vvhYN_U) ([Leo slides](slides/leo-LT2021-meta.pdf), [Sebastian slides](slides/sebastian-lean4-parsers-macros.pdf))|
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>[*Towards verified decompilation using Lean 4*](https://www.youtube.com/watch?v=o_IcQyTkMuc) |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>[*Towards verified decompilation using Lean 4*](https://www.youtube.com/watch?v=o_IcQyTkMuc) ([slides](slides/joe-towards-assured-decompilation-lean-together-2021.pdf)) |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>[*Baby steps toward formalizing results in anabelian geometry*](https://www.youtube.com/watch?v=lkkA92vhhTU) ([slides](slides/adam-lt2021.pdf), [repo](https://github.com/adamtopaz/lean_localtheory))|
 | <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson<br>*Formalising matroids* |

@@ -70,6 +70,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Tom Ellis
 * Johannes Emerich
 * Zhou Fang
+* Jim Fehrle
 * Ramon Fernández Mir
 * Moritz Firsching
 * Sara Fish
@@ -91,6 +92,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Tom Hales
 * Jesse Michael Han
 * Jörg Hanisch
+* Omar Harhara
 * Maximilian P.L. Haslbeck
 * Joel Healy
 * Joe Hendrix
@@ -115,6 +117,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Adam Kurkiewicz
 * Kevin Lacker
 * Shing Tak Lam
+* Jun Lau
 * Kenny Lau
 * Edward Lee
 * Gyesik Lee
@@ -126,6 +129,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Amelia Livingston
 * Jean Lo
 * Juan Lucas Rey
+* Daniel Luckhardt
 * Patrick Lutz
 * Heather Macbeth
 * Marc Masdeu

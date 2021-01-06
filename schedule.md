@@ -72,7 +72,7 @@ look for them on [gather.town](https://www.gather.town/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* |
+| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* ([slides](slides/paula-LeanTogether2021.pdf))|
 | <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau<br>*Formalizing Perfectoid Fields* |
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |

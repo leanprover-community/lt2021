@@ -49,7 +49,7 @@ look for them on [gather.town](https://www.gather.town/)!
 | <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Heather Macbeth<br>[*An example of a manifold*](https://www.youtube.com/watch?v=deppJ2q_5a0) ([slides](slides/Macbeth-slides.pdf)) |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Ed Ayers<br>[*Widgets: interactive output in VSCode*](https://www.youtube.com/watch?v=8NUBQEZYuis) ([slides](slides/EWAyers-Widgets-LT2021.pdf))|
 | <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*An overview of Lean 4*](https://www.youtube.com/watch?v=UeGvhfW1v9M) |
+| <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*An overview of Lean 4*](https://www.youtube.com/watch?v=UeGvhfW1v9M) ([Leo slides](slides/leo-LT2021.pdf), [Sebastian slides](sebastian-An-Overview-of-Lean-4-demo.pdf)) |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Lean 4 Q&A |
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Discussion: porting mathlib to Lean 4 |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time ("workshop dinner") |
@@ -72,14 +72,14 @@ look for them on [gather.town](https://www.gather.town/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* ([slides](slides/paula-LeanTogether2021.pdf))|
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau<br>*Formalizing Perfectoid Fields* |
-| <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* |
+| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Paula Neeley<br>*Results in modal and dynamic epistemic logic* ([slides](slides/paula-LeanTogether2021.pdf), [repo](https://github.com/paulaneeley/modal))|
+| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Kenny Lau<br>*Formalizing Perfectoid Fields* ([slides](slides/kenny-Jan6_Perfectoid_no_transition.pdf))|
+| <time datetime="2021-01-04T17:00+01:00">5:00pm CET</time> | Yasmine Sharoda<br>*Generative Tools for Library Building* ([slides](slides/yasmine-slides.pdf), [repo](https://github.com/ysharoda/Deriving-Definitions)) |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4* |
+| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4* ([Leo slides](slides/leo-LT2021-meta.pdf), [Sebastian slides](slides/sebastian-lean4-parsers-macros.pdf))|
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Joe Hendrix<br>*Towards verified decompilation using Lean 4* |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>*Baby steps toward formalizing results in anabelian geometry* |
+| <time datetime="2021-01-04T20:00+01:00">8:00pm CET</time> | Adam Topaz<br>*Baby steps toward formalizing results in anabelian geometry* ([slides](slides/adam-lt2021.pdf), [repo](https://github.com/adamtopaz/lean_localtheory))|
 | <time datetime="2021-01-04T20:45+01:00">8:45pm CET</time> | Peter Nelson<br>*Formalising matroids* |
 | <time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Social time |
 

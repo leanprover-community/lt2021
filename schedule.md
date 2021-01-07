@@ -88,13 +88,13 @@ look for them on [gather.town](https://www.gather.town/)!
 | Time      | Speaker            |
 | --------- | ------------------ |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean<br>*Complex analysis through a hierarchy of real-analysis structures* |
-| <time datetime="2021-01-04T14:30+01:00">2:30pm CET</time> | Damiano Testa<br>*Mathematical insights from using Lean* ([slides](slides/damiano-2021_01_07_Testa_Lean_Together_2021.pdf)) |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>*Definitions: are some more equal than others?* |
+| <time datetime="2021-01-04T14:30+01:00">2:30pm CET</time> | Damiano Testa<br>[*Mathematical insights from using Lean*](https://www.youtube.com/watch?v=jlJl0p7pm7M) ([slides](slides/damiano-2021_01_07_Testa_Lean_Together_2021.pdf)) |
+| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>[*Definitions: are some more equal than others?*](https://www.youtube.com/watch?v=58mtVdX7Ee8) |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Alena Gusakov<br>*Formalizing Hall's Marriage Theorem* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Panel/discussion: Teaching with proof assistants<br>Panelists: Jeremy Avigad, Jasmin Blanchette, Heather Macbeth, Gihan Marasingha, Patrick Massot, Julien Narboux  |
+| <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Alena Gusakov<br>[*Formalizing Hall's Marriage Theorem*](https://www.youtube.com/watch?v=qrqdArzq2Vc) |
+| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | [Panel/discussion: Teaching with proof assistants](https://www.youtube.com/watch?v=5Rah4w_CAhw) <br>Panelists: Jeremy Avigad, Jasmin Blanchette, Heather Macbeth, Gihan Marasingha, Patrick Massot, Julien Narboux  |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
-| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Logan Murphy<br>*Provably Deductive Assurance Cases* |
-| <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Thomas Browning and Patrick Lutz<br>*Galois theory* |
-| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4 (continued)* |
+| <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Logan Murphy<br>[*Provably Deductive Assurance Cases*](https://www.youtube.com/watch?v=5Rah4w_CAhw) |
+| <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Thomas Browning and Patrick Lutz<br>[*Galois theory*](https://www.youtube.com/watch?v=-6z6qTD_vv8) |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>[*Metaprogramming in Lean 4 (continued)*](https://www.youtube.com/watch?v=vy4JWIiiXSY) |
 | <time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Social time |

@@ -96,4 +96,5 @@ look for them on [gather.town](https://www.gather.town/)!
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Logan Murphy<br>*Provably Deductive Assurance Cases* |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Thomas Browning and Patrick Lutz<br>*Galois theory* |
+| <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Leonardo de Moura and Sebastian Ullrich<br>*Metaprogramming in Lean 4 (continued)* |
 | <time datetime="2021-01-04T19:00+01:00">7:00pm CET</time> | Social time |

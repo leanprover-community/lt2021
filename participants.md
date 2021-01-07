@@ -106,6 +106,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Peter Jipsen
 * Timotheus Kampik
 * Vaibhav Karve
+* Andrew Kent
 * Marie Kerjean
 * Huỳnh Trần Khanh
 * Peter Koepke
@@ -201,6 +202,7 @@ The links can also be found in the Lean Together 2021 stream of the [Zulip chat]
 * Martin Suda
 * Kevin Sullivan
 * Vanessa Sun
+* François Sunatori
 * Nikhil Swamy
 * Eric G Taucher
 * Damiano Testa

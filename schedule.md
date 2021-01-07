@@ -92,7 +92,7 @@ look for them on [gather.town](https://www.gather.town/)!
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>*Definitions: are some more equal than others?* |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T16:00+01:00">4:00pm CET</time> | Alena Gusakov<br>*Formalizing Hall's Marriage Theorem* |
-| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Panel/discussion: Teaching with proof assistants |
+| <time datetime="2021-01-04T16:30+01:00">4:30pm CET</time> | Panel/discussion: Teaching with proof assistants<br>Panelists: Jeremy Avigad, Jasmin Blanchette, Heather Macbeth, Gihan Marasingha, Patrick Massot, Julien Narboux  |
 | <time datetime="2021-01-04T17:30+01:00">5:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T18:00+01:00">6:00pm CET</time> | Logan Murphy<br>*Provably Deductive Assurance Cases* |
 | <time datetime="2021-01-04T18:30+01:00">6:30pm CET</time> | Thomas Browning and Patrick Lutz<br>*Galois theory* |

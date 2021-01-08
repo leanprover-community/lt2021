@@ -87,7 +87,7 @@ look for them on [gather.town](https://www.gather.town/)!
 
 | Time      | Speaker            |
 | --------- | ------------------ |
-| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean<br>*Complex analysis through a hierarchy of real-analysis structures* |
+| <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Marie Kerjean<br>*Complex analysis through a hierarchy of real-analysis structures* ([slides](slides/kerjean_slides_lean21.pdf))|
 | <time datetime="2021-01-04T14:30+01:00">2:30pm CET</time> | Damiano Testa<br>[*Mathematical insights from using Lean*](https://www.youtube.com/watch?v=jlJl0p7pm7M) ([slides](slides/damiano-2021_01_07_Testa_Lean_Together_2021.pdf)) |
 | <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Amelia Livingston<br>[*Definitions: are some more equal than others?*](https://www.youtube.com/watch?v=58mtVdX7Ee8) |
 | <time datetime="2021-01-04T15:30+01:00">3:30pm CET</time> | Coffee break |

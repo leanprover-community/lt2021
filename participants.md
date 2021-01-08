@@ -5,11 +5,6 @@ author: "Community"
 image: mountains.jpg
 ---
 
-## Registration
-
-To register, please [fill out the form](https://forms.gle/a9x51G6oWebqseEf9).
-Registration is not required, but will let us keep you updated with the Zoom link, etc.
-The links can also be found in the Lean Together 2021 stream of the [Zulip chat](https://leanprover.zulipchat.com/).
 
 ## Participants
 

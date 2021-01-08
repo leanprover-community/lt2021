@@ -14,10 +14,6 @@ feel free to contact the organizers by email or on
 * [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~pmassot/en/) ([email](mailto:patrick.massot@math.cnrs.fr))
 
 
-## Registration
-
-[Register here!](https://forms.gle/a9x51G6oWebqseEf9)
-
 ## Meeting venue
 
 The workshop will take place virtually over Zoom.

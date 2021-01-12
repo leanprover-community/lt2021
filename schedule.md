@@ -62,7 +62,7 @@ look for them on [gather.town](https://www.gather.town/)!
 | <time datetime="2021-01-04T12:45+01:00">12:45pm CET</time> | Chris Hughes<br>[*Word problem for one-relator groups*](https://www.youtube.com/watch?v=cLuEaAsUvL4) |
 | <time datetime="2021-01-04T13:30+01:00">1:30pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T14:00+01:00">2:00pm CET</time> | Stanislaus Polu<br>[*OpenAI Metamath GPT-f*](https://www.youtube.com/watch?v=zgGYyGkmWSw) ([slides](https://docs.google.com/presentation/d/10XcMLgh7wDRDtcj4FKqgEtqqWzZpkxmLDwpnWPntyP0/edit#slide=id.g97b8cb2395_0_0)) |
-| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute<br>[*LeanStep: a dataset and environment for (interactive) neural theorem proving in Lean 3*](https://www.youtube.com/watch?v=eSXiClL4COw) ([slides](https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing)) |
+| <time datetime="2021-01-04T15:00+01:00">3:00pm CET</time> | Jason Rute and Jesse Han<br>[*LeanStep: a dataset and environment for (interactive) neural theorem proving in Lean 3*](https://www.youtube.com/watch?v=eSXiClL4COw) ([slides](https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing)) |
 | <time datetime="2021-01-04T15:45+01:00">3:45pm CET</time> | Coffee break |
 | <time datetime="2021-01-04T16:15+01:00">4:15pm CET</time> | Koundinya Vajjha<br>[*CertRL: Formalizing Convergence Proofs for Value and Policy Iteration in Coq*](https://www.youtube.com/watch?v=ZObutovVQis) ([slides](slides/kody-CertRL.pdf)) |
 | <time datetime="2021-01-04T16:45+01:00">4:45pm CET</time> | Yury Kudryashov<br>[*Dynamics on the circle*](https://www.youtube.com/watch?v=rPjFwNvhf-Y) |

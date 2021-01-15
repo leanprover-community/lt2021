@@ -36,8 +36,8 @@ look for them on [gather.town](https://www.gather.town/)!
 
 | Q&A Time | Speaker |
 | Tuesday, Jan 5<br><time datetime="2021-01-04T17:15+01:00">5:15pm CET</time> | Mario Carneiro<br>[*MM1: A Lean-style proof assistant for Metamath Zero (tutorial)*](https://www.youtube.com/watch?v=A7WfrW7-ifw) |
-| Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve<br>[*Axiomatic Geometry in Lean*](https://urldefense.com/v3/__https://illinois.zoom.us/rec/share/jDJ7NN1M5KU826TrUZSAynyXBRHRZ4tfUcjiZZQqQZhmkbuepE7XimOvckeZO6XU.H2eGmuRP6eUYLPfl__;!!DZ3fjg!qRj5i-raLqEsJne1TJPdG6uyRTiAmt4R4OBBhd2xt5tRm0TghBID3eV4BsVuT1OdqW4$)<br>[*Model Theory in Lean*](https://urldefense.com/v3/__https://illinois.zoom.us/rec/share/lv5AsKiwvDAoc7lquK2VV5TeoLCXSuUAMuAjDT07AdXKxyVl86sfO8MyBy6p7J7W.BZwOHSWaOZv4-qRt__;!!DZ3fjg!opj1KMLHo6ootkeRN95HnxZcEx8DVxS4g64BOMiJuXgeiIDib6wYEgmrysOhqlTjDVM$)|
-| Thursday, Jan 7<br><time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Alex Best<br>[*Automatically generalising theorems using typeclasses in Lean*](https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000) ([slides](http://alexjbest.github.io/talks/lean-generalisation/#/))|
+| Wednesday, Jan 6<br><time datetime="2021-01-04T21:15+01:00">9:15pm CET</time> | Vaibhav Karve<br>[*Axiomatic Geometry in Lean*](https://www.youtube.com/watch?v=pMCZFrii4lA)<br>[*Model Theory in Lean*](https://www.youtube.com/watch?v=K-kLck8BvDM)|
+| Thursday, Jan 7<br><time datetime="2021-01-04T19:30+01:00">7:30pm CET</time> | Alex Best<br>[*Automatically generalising theorems using typeclasses in Lean*](https://www.youtube.com/watch?v=4W-B8tGJUME) ([slides](http://alexjbest.github.io/talks/lean-generalisation/#/))|
 
 
 ## Monday, January 4
